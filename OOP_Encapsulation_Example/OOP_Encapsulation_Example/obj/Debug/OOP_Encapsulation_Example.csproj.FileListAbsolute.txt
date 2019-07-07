@@ -1,0 +1,7 @@
+F:\Github Learning Repos\OOP_Encapsulation_Example\OOP_Encapsulation_Example\bin\Debug\OOP_Encapsulation_Example.exe.config
+F:\Github Learning Repos\OOP_Encapsulation_Example\OOP_Encapsulation_Example\bin\Debug\OOP_Encapsulation_Example.exe
+F:\Github Learning Repos\OOP_Encapsulation_Example\OOP_Encapsulation_Example\bin\Debug\OOP_Encapsulation_Example.pdb
+F:\Github Learning Repos\OOP_Encapsulation_Example\OOP_Encapsulation_Example\obj\Debug\OOP_Encapsulation_Example.csprojAssemblyReference.cache
+F:\Github Learning Repos\OOP_Encapsulation_Example\OOP_Encapsulation_Example\obj\Debug\OOP_Encapsulation_Example.csproj.CoreCompileInputs.cache
+F:\Github Learning Repos\OOP_Encapsulation_Example\OOP_Encapsulation_Example\obj\Debug\OOP_Encapsulation_Example.exe
+F:\Github Learning Repos\OOP_Encapsulation_Example\OOP_Encapsulation_Example\obj\Debug\OOP_Encapsulation_Example.pdb
